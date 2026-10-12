@@ -1,0 +1,13 @@
+Suggested 2-minute demo script
+
+1. "Our project is ImageLab, an interactive Computer Vision image-processing studio."
+2. "The problem we address is that beginners often need separate tools or scripts to try basic image-processing operations."
+3. Upload a sample JPG or PNG image.
+4. Select Grayscale and show the original and processed images.
+5. Select Edge detection and explain that Canny highlights strong intensity changes.
+6. Select Noise reduction or Threshold and show the different output.
+7. Click Download processed image.
+8. "We used Python, Streamlit, OpenCV, NumPy and Pillow. The project demonstrates classical image processing; it does not use a trained AI model and does not perform semantic object recognition."
+9. Briefly mention limitations: fixed thresholding can struggle with different lighting, and results depend on image quality.
+
+Record the actual application running. Do not use screenshots as a substitute for a working demo.
